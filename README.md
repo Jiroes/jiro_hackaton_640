@@ -8,7 +8,7 @@ bot discord yang memberikan informasi tentang cara mencegah macam2 polusi :
 ## Inilah jenis proyek saya:
 > 
 
-## Pustaka yang akan saya gunakan: - VSC - Pustaka N
+## Pustaka yang akan saya gunakan: - Discord - Pustaka N
 
 ## Referensi yang berguna: - Berita dari internet - Referensi N
 
